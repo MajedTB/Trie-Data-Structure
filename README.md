@@ -3,6 +3,8 @@ This project was developed for *Data Structures and Algorithms* course (*ICS202*
 a Trie is a special type of tree data data structure, which allows efficient search of words. It consist of multiple TrieNodes, each TrieNode has a key, children and a boolean value to indicate if it is an end of a word. 
 Note: all the words should be in uppercase.
 
+The class TrieTest contain a menu driven program to test the Trie.
+
 The methods written in the Trie class support the following operations:
 - insert(String s) [void] : insert the String 's' into the Trie.
 - insertPermutations(String s, String dictFile) [void]: Inserts all valid words from dictionary 'dictFile' that can be spelled from string 's'.
