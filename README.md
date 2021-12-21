@@ -1,7 +1,7 @@
 # Trie-Data-Structure
 This project was developed for *Data Structures and Algorithms* course (*ICS202*), which impelements "Trie" data structure.
-a Trie is a special type of tree data data structure, which allows efficient search of words. It consist of multiple TrieNodes, each TrieNode has a key, children and a boolean value to indicate if it is an end of a word. 
-Note: all the words should be in uppercase.
+a Trie is a special type of tree data structure, which allows efficient search of words. It consist of multiple TrieNodes, each TrieNode has a key, children and a boolean value that indicate if it is an end of a word. 
+*Note: all the words should be in uppercase.*
 
 The class TrieTest contain a menu driven program to test the Trie.
 
